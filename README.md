@@ -21,3 +21,24 @@ https://www.datacamp.com/blog/java-projects-for-all-levels
 
 GeeksforGeeks – Java Project Ideas For Beginners and Advanced  
 https://www.geeksforgeeks.org/blogs/java-projects/
+
+## Portfolio structure
+
+java-backend-portfolio/
+│
+├── calculator/
+│   ├── Calculator.java
+│   └── README.md
+│
+├── currency-converter/
+│   ├── CurrencyConverter.java
+│   └── README.md
+│
+├── todo-app/
+│   ├── TodoApp.java
+│   └── README.md
+│
+└── tic-tac-toe/
+    ├── TicTacToe.java
+    └── README.md
+    
