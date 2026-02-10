@@ -1,10 +1,11 @@
-# Java Console Apps
+# Java Applications 
 
 ## Beginner Java Projects
 
 1. Basic Calculator – Create a program that performs arithmetic operations (add, subtract, multiply, divide) using user input and conditional logic.
 2. Currency Converter – Build an application that converts currencies using exchange rates, optionally fetched from an external API.
 3. To-Do List Application – Develop a task manager where users can add, organize, and mark tasks as completed using lists and loops.
+
 Extra: Tic-Tac-Toe – Create a two-player console game to practice logic, loops, and condition checking.
 
 ## Intermediate Java Projects
